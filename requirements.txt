@@ -1,3 +1,4 @@
 jupyterhub>=0.4
 escapism
 docker
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
